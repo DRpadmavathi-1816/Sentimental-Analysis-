@@ -3,6 +3,10 @@
 A lightweight end-to-end notebook that classifies customer‐generated text (tweets/reviews) as **positive** or **negative**.  
 The workflow covers data loading, preprocessing, TF-IDF vectorization, model training, and performance evaluation.
 
+Author :
+ Name: D.Renuka Padmavathi 
+company: Micro IT SOLUTIONS 
+
 ## 📂 Project Contents
 
 |File / Folder                               Purpose                                                    
