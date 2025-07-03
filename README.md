@@ -6,7 +6,7 @@ The workflow covers data loading, preprocessing, TF-IDF vectorization, model tra
 INTERNSHIP INFORMATION 
 - Name: D.Renuka Padmavathi 
 - company: Micro IT SOLUTIONS 
-- Domain : ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+- Domain : ARTIFICIAL INTELLIGENCE AND MACHINE           LEARNING 
 - Duration : 1 Month 
 
 ## 📂 Project Contents
