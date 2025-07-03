@@ -14,9 +14,7 @@ INTERNSHIP INFORMATION
 |File / Folder                               Purpose                                                    
  `sentiment_anaook with full code (imports → plots). 
 `README.md`                                   You’re reading it—setup & usage guide.                     
-`requirements.txt`                    Reproducible Python dependencies (optional).               
-
-*(Only the notebook is strictly required; the rest are convenience files.)*
+`requirements.txt`                    Reproducible Python dependencies (optional).            
 
 
 ## 📊 Dataset
