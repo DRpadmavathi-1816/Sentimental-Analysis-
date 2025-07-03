@@ -3,10 +3,12 @@
 A lightweight end-to-end notebook that classifies customer‐generated text (tweets/reviews) as **positive** or **negative**.  
 The workflow covers data loading, preprocessing, TF-IDF vectorization, model training, and performance evaluation.
 
-🧑‍💻 AUTHOR :
- Name: D.Renuka Padmavathi 
-company: Micro IT SOLUTIONS 
-
+INTERNSHIP INFORMATION 
+- Name: D.Renuka Padmavathi 
+- company: Micro IT SOLUTIONS 
+- Domain :
+- Duration :
+- Intern Id:
 ## 📂 Project Contents
 
 |File / Folder                               Purpose                                                    
@@ -23,8 +25,7 @@ The sample notebook fetches the **Twitter Sentiment Analysis** training set
 `https://raw.githubusercontent.com/dD2405/Twitter_Sentiment_Analysis/master/train.csv`,  
 containing two columns:
 
-| Column   | Description                                |
-|----------|--------------------------------------------|
+| Column   | Description                                
 | `tweet`  | Raw tweet text                             |
 | `label`  | Sentiment (0 = negative, 1 = positive)     |
 
@@ -91,13 +92,13 @@ Confusion matrix heat-map (Seaborn)
 
 7. Next Steps (optional)
 
-Hyper-parameter tuning (GridSearchCV)
+- Hyper-parameter tuning (GridSearchCV)
 
-Cross-validation (StratifiedKFold)
+- Cross-validation (StratifiedKFold)
 
-Save & deploy model (joblib, Flask/FastAPI)
+- Save & deploy model (joblib, Flask/FastAPI)
 
-Real-time inference pipeline or Streamlit app.
+- Real-time inference pipeline or Streamlit app.
 
 
 
