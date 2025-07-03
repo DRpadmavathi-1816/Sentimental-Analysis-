@@ -1,4 +1,4 @@
-# Sentiment Analysis with TF-IDF & Logistic Regression
+o# Sentiment Analysis with TF-IDF & Logistic Regression
 
 A lightweight end-to-end notebook that classifies customer‐generated text (tweets/reviews) as **positive** or **negative**.  
 The workflow covers data loading, preprocessing, TF-IDF vectorization, model training, and performance evaluation.
@@ -6,9 +6,9 @@ The workflow covers data loading, preprocessing, TF-IDF vectorization, model tra
 INTERNSHIP INFORMATION 
 - Name: D.Renuka Padmavathi 
 - company: Micro IT SOLUTIONS 
-- Domain :
-- Duration :
-- Intern Id:
+- Domain : ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+- Duration : 1 Month 
+
 ## 📂 Project Contents
 
 |File / Folder                               Purpose                                                    
